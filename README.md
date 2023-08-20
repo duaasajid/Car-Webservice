@@ -1,27 +1,5 @@
 # Car Web Service
 
-This is a RESTful web service built using Ruby on Rails that allows you to retrieve cars based on their types.
-
-## Features
-
-- Retrieve cars by type: electrical, 2 wheels, or sport.
-- Each car type may have different associated parts.
-
-## Setup
-
-1. Make sure you have Ruby and Rails installed.
-2. Clone this repository.
-3. Navigate to the project directory and run the following commands:
-
-   ```bash
-   bundle install
-   rails db:migrate
-   rails db:seed
-   rails server
-
-
-# Car Web Service
-
 You can obtain cars based on their types using this Ruby on Rails-built RESTful web API.
 
 ## Features
