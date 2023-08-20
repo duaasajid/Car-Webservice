@@ -13,8 +13,9 @@ Clone this repository, step 2.
 3. Open the project directory and issue the aforementioned commands.
 
 Run the commands:
-bundle install
-rails db:migrate
-rails db:seed
-rails server
+
+1. bundle install
+2. rails db:migrate
+3. rails db:seed
+4. rails server
 
